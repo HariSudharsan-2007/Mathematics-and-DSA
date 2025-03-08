@@ -1,0 +1,2 @@
+Before 1st review - Encryption of Iris dataset for Analysis of the Dataset transformation before and after, Mathematics behind homomorphic encryption.
+After 1st review - Implemented 3 models with different scheme BFV,CKKS,QHE abd Encrypted diabetes dataset with feature and outcome label and used logostic regression, QSVM to evaluate the model performance in encrypted dataset,further parameter tuning is required.
